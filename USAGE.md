@@ -6,4 +6,4 @@ Después de instalar la herramienta, puede utilizarla siguiendo estos pasos:
 2. Conecte su repositorio de Git usando la interfaz.
 3. Visualice las ramas disponibles.
 4. Use las opciones para crear, eliminar o fusionar ramas según sea necesario.
-5. Consulte las recomendaciones en pantalla para asegurar la mejor práctica en la gestión de ramas.
+5. Siga las recomendaciones en pantalla para asegurar las mejores prácticas en la gestión de ramas.
