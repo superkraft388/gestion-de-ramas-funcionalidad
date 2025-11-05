@@ -9,4 +9,4 @@
 4. Envíe su rama (`git push origin mi-feature`).
 5. Abra un Pull Request.
 
-Por favor, asegúrese de que su código sigue los estándares de estilo del proyecto y que las pruebas sean correctas.
+Por favor, asegúrese de que su código sigue los estándares de estilo del proyecto, que las pruebas sean correctas y que se han ejecutado antes de enviar el Pull Request.
