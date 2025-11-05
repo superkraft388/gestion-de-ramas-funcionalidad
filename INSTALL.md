@@ -16,4 +16,4 @@ Para instalar la herramienta, siga estos pasos:
    npm start
    ```
 
-Asegúrese de tener instalado Node.js (versión 14 o superior) y Git en su sistema.
+Asegúrese de tener instalado Node.js (versión 16 o superior) y Git en su sistema.
