@@ -1,4 +1,4 @@
-# Uso
+# Uso de la herramienta
 
 Después de instalar la herramienta, puede utilizarla siguiendo estos pasos:
 
